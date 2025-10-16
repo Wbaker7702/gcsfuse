@@ -5,7 +5,7 @@ go 1.24.5
 require (
 	cloud.google.com/go/auth v0.16.5
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
-	cloud.google.com/go/compute/metadata v0.8.0
+	cloud.google.com/go/compute/metadata v0.9.0
 	cloud.google.com/go/iam v1.5.2
 	cloud.google.com/go/profiler v0.4.3
 	cloud.google.com/go/secretmanager v1.15.0
